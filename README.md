@@ -1,6 +1,6 @@
 # Domain Search Package
 
- This package returns emails associated by a domain. Uses [emailhunter api](https://emailhunter.co/).
+ This package will search emails associated by a domain. Uses [emailhunter api](https://emailhunter.co/).
 
 # How to use
 
