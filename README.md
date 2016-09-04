@@ -1,7 +1,13 @@
-# Domain Search Package
+# Domain Searcher Package
 
  This package will search emails associated by a domain. Uses [emailhunter api](https://emailhunter.co/).
 
+#Installation
+
+ ```
+    meteor add edionme:domain-searcher
+    
+ ```
 # How to use
 
 * Set your emailhunter api ([get here](https://emailhunter.co/)):
