@@ -14,6 +14,7 @@ Package.onUse(function(api) {
   api.versionsFrom('1.4.1.1');
   api.use('ecmascript');
   api.use('http');
+  api.use('email');
   api.mainModule('domain-searcher.js', 'server');
 });
 
