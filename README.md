@@ -6,7 +6,7 @@
 
  ```
     meteor add edionme:domain-searcher
-    
+
  ```
 # How to use
 
@@ -41,7 +41,7 @@
   });
   ```
 
-## Run your app
+## Run on local
 ```
 meteor run --settings /path/to/yoursettingsfile/
 ```
